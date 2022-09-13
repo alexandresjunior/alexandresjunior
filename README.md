@@ -1,9 +1,7 @@
 ## Hello, World! 👋🧑‍💻
 
 ### Summary 
-* I'm Alexandre (or Alex for most!) and I work as a Software Engineer in Liferay, Inc. where I've been working since 2021. 
-* I'm a member of the Global Services US development team.
-* I've been involved in Web Application Development and Test Automation.
+I'm Alexandre (or Alex for most!) and I'm a Civil Engineer specialist in Software Engineering, with experience with web application development, neural networks models, test automation and agile methods.
 
 ### My Skills 
 * Languages: Java, Python, MATLAB, HTML, CSS, JavaScript.
