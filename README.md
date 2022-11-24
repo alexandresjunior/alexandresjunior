@@ -5,12 +5,13 @@ I'm Alexandre (or Alex for most!) and I'm a Civil Engineer specialist in Softwar
 
 ### My Skills 
 * Languages: Java, Python, MATLAB, HTML, CSS, JavaScript.
-* Technologies/Frameworks: Spring Boot, HIbernate, Gradle, Maven, Flask, Django, JSP and JSF.
+* Technologies/Frameworks: Spring Boot, Hibernate, Gradle, Maven, Flask, Django, JSP and JSF.
 * Databases: MySQL and PostgreSQL.
 * Development Environments/IDEs: IntelliJ IDEA, Eclipse, Visual Studio Code, Git.
 * Platforms: Windows and Linux.
 * Application/Web Servers: Apache, Tomcat.
 * Methodologies: Scrum/Kanban.
+* Extra: Deep Learning with TensorFlow and Keras.
  
  ##
 
